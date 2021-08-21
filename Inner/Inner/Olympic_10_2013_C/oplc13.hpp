@@ -11,6 +11,8 @@
 #include <stdio.h>
 #include <iostream>
 #include <string>
+#include <fstream>
+#include <vector>
 using namespace std;
 class OlympicC2013{
 public:
@@ -18,6 +20,6 @@ public:
     void Node(string,string);
     void Oil(string,string);
     void Road(string,string);
-    ~OlympicC2013();
+    ~OlympicC2013(){cout<<"destroy"<<endl;};
 };
 #endif /* oplc13_hpp */

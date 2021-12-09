@@ -20,6 +20,6 @@ private:
     int total;
 public:
     Point(int a,int b){x=a;y=b;};
-    int cal(vector<int>);
+    
 };
 #endif /* Point_hpp */

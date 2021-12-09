@@ -6,10 +6,17 @@
 //
 
 #include <iostream>
-
+#include <string>
+#include <vector>
+#include <math.h>
+#include <iomanip>
+#include "Homework.hpp"
+#include "hemwork.hpp"
 using namespace std;
 int main(int argc, const char * argv[]) {
     // insert code here...
-    cout << "Hello, World!\n";
+    Hemwork target;
+    target.task40();
     return 0;
 }
+

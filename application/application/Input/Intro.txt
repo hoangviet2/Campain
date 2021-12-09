@@ -1,0 +1,78 @@
+Bai tap ve Nhap xuat
+    1.Hello World
+    2.Tinh tong 2 so
+    3.Tinh tong 2 so
+    4.Tinh so mu
+    5.Tinh tong 2 so nang cao
+    6.Chu vi, dien tich HCN
+    7.Hinh cau
+    8.Ngay thang nam
+    9.Gio phut giay
+
+Bai tap ve If else
+    10.Max 2
+    11.Max 3
+    12.Max 4
+    13.Phuong tronh bac 2
+    14.Tam giac
+    15.So ngay cua thang
+    16.Cuoc dien thoai
+
+Bai tap ve Vong lap
+    17.In cac so tu 1 den n
+    18.Tong cac so tu 1 den
+    19.Niem than chu
+    20.Tinh giai thua n!
+    21.Tong nghich dao
+    22.Ve HCN dac
+    23.Ve hinh tam giac
+    24.Ve HCN rong
+    25.Kiem tra so nguyen to
+    26.Kiem tra so hoan hao
+    27.So Fibonaci thu n
+    28.So dao nguoc
+    29.Chu so lon nhat
+    30.Tong voi so dao nguoc
+    31.Thua so nguyen to
+    32.Tim UCLN, BCNN
+    33.Dem so
+    34.Cac so nguyen to nho hon k
+    35.Trung binh cac so nhor hon k
+    36.Tim k so nguyen to dau tien
+ 
+Bai tap ve Mang
+    37.Max min trong mang
+    38.Vi tri max trong mang
+    39.Trung binh cong cua mang
+    40.Luong mua trung binh
+    41.So nguyen to trong mang
+    42.Trung binh cac so nguyen to trong mang
+    43.So chinh phuong trong mang
+    44.So am lon nhat trong mang
+    45.Tach am duong trong mang
+    46.Sap xep mang
+    47.Ba so lon nhat
+    48.Dem so luong so
+    49.Dem so luong so nang cao
+    50.So lan xuat hien nhieu nhat
+    51.Kiem tra mang tang dan
+    52.Kiem tra mang doi xung
+    53.Doi he thap phan sang he nhi phan
+
+Bai tap ve Ma Tran
+    54.Nhap xuat ma tran
+    55.Tong hang, Tong cot cua ma tran
+    56.Ma tran chuyen vi
+    57.Kiem tra ma tran doi xung
+    58.Trung binh cong duong cheo chinh
+    59.Cong ma tran
+
+Bai tap ve chuoi
+    60.Nhap xuat chuoi
+    61.Dem so tu trong chuoi
+    62.Chuan hoa chuoi
+    63.Kiem tra chuoi toan so
+    64.Chuyen ve chu thuong chu hoa
+    65.Tach ten nguoi
+    66.Dem so lan xuat hien cua ky tu
+    67.Dem so lan xuat hien xua chuoi
